@@ -1,2 +1,2 @@
 # AKS
-aks is a template for making your HTML files easier
+aks is a template for setting up your websites more quicker.
